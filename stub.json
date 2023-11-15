@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Write a flash loan smart contract that will find and execute trades for triangular arbitrage opportunities across networks.","md5":"c4a967fc2ed1610015c254149dd9856e"}]}
